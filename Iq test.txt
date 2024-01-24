@@ -1,4 +1,4 @@
-Factorial Test
+IQ Test
 
 1. Answer is 2, I choose 2- \ because the box has 3 rows and 3 columns the first row the first box
 a slanting line is pointing to the bottom right \,  so definitely it should be \, it follows a direction of the slanting line, same with 
