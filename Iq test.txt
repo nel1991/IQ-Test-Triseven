@@ -1,0 +1,24 @@
+Factorial Test
+
+1. Answer is 2, I choose 2- \ because the box has 3 rows and 3 columns the first row the first box
+a slanting line is pointing to the bottom right \,  so definitely it should be \, it follows a direction of the slanting line, same with 
+direction other boxes. 
+
+2. Answer is 2, I choose 2 on the last 2 rows of the box, it follows the size of the shape, the 
+first box on the second row, has a small circle, second box has big circle and the last box has
+much bigger shape of circle so I choose 2
+
+3. Answer is 1, I choose 1 because on the first 2 rows of the box, the first box on the first row and the 
+first box on the second row has much bigger shape, which is triangle and circle, so it follows also a big square on the 
+last row on the first box
+
+4.Answer is 4, because the I base it on the last box of each rows, on the first row, last box, the circle 
+was on the top, on the bottom of it which is the last box of the second row,its on the middle the line has a steady position 
+same with first row, last box, the square on the first row, last box, its on the middle, on the second row,
+last box its on the top, the last box on the last row order should be , circle on the bottom right, steady
+line and the square is on the bottom left.
+
+5. Answer is 1, because the last row of the box, the first box, the square was on the left side top, circle is on the
+bottom right, first row, last box, the circle is on the top right, and the square is bottom right, on the second row
+the circle is still on the top right but the square is on the middle, so the order of the shapes on the last row, last box
+would be square on the top right and the circle is on the bottom right. 
